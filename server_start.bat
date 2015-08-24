@@ -1,0 +1,1 @@
+java -Xms1G -Xmx1G -jar forge-1.7.10-10.13.4.1492-1.7.10-universal.jar -o true
